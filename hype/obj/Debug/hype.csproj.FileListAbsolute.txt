@@ -1,0 +1,6 @@
+D:\hypecalc\hype\hype\bin\Debug\hype.exe.config
+D:\hypecalc\hype\hype\bin\Debug\hype.exe
+D:\hypecalc\hype\hype\bin\Debug\hype.pdb
+D:\hypecalc\hype\hype\obj\Debug\hype.csprojResolveAssemblyReference.cache
+D:\hypecalc\hype\hype\obj\Debug\hype.exe
+D:\hypecalc\hype\hype\obj\Debug\hype.pdb
